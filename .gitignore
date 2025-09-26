@@ -50,6 +50,7 @@ migrations/  # Optional: Exclude auto-generated migration files (use with cautio
 
 # IDE and editor files
 .vscode/
+.cursor/
 .idea/
 *.sublime-project
 *.sublime-workspace
